@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="ar;es" xml:lang="ar" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="10" flattenSnippets="false" SelectedTarget="" SourceControlDatabaseRoot="E:\C-Drive\rbutros\Documents\My Translated Projects\NewProject891.liprjf" SourceControlDatabase="E:\C-Drive\rbutros\Documents\My Translated Projects\NewProject891.liprjf\.git" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="50cafc4b-9546-4be6-8fc3-d0383bd60212">
+    <ProjectFile Source="Target/SanityTest.flprj" Target="Target/SanityTest.flprj" />
+</LingoProject>
